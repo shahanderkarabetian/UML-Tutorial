@@ -12,12 +12,12 @@ Four files are included:
 - Metano_UCE_SNPs_forRscript.str : This is the input dataset associated with the R script. SNP data.
 
 The R scripts were tested and used with these R package versions:
-adegenet 2.1.1 
-randomForest 4.6-14
-tsne 0.1-3
-PCDimension 1.1.9
-mclust 5.4.1
-cluster 2.0.7-1
+adegenet 2.1.1, 
+randomForest 4.6-14,
+tsne 0.1-3,
+PCDimension 1.1.9,
+mclust 5.4.1,
+cluster 2.0.7-1,
 factoextra 1.0.5
 
 - VAE_NMNH_workshop.ipynb : The script for running VAE. Alternate collab link here:https://colab.research.google.com/drive/1ynXdWKzhgcdCPkDFhyttqs_SOdBfaFa8?usp=sharing
